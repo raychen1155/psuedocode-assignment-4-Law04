@@ -14,5 +14,5 @@ If a player can't supply enoguh cards to continue the game:
   They lose.
 The player with the higher card takes all cards, and so on. 
 The game ends when one player has won all the cards.
-Remember to suck and feel horrible!
+Remember to suck and feel horrible! // Be more positive
 
